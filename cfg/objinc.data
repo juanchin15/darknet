@@ -1,5 +1,5 @@
 classes = 3
 train = data/train.txt
 valid = data/test.txt
-names = data/obj.names
+names = data/objinc.names
 backup = /content/gdrive/MyDrive/backupincendios/backup
