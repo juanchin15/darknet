@@ -2,4 +2,4 @@ classes = 1
 train = data/train.txt
 valid = data/test.txt
 names = data/custom.names
-backup = /content/gdrive/MyDrive/yolov4/backup
+backup = /mydrive/yolov4/backup
